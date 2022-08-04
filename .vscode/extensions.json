@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "golang.go",
+        "hashicorp.terraform",
+        "ms-azuretools.vscode-docker"
+    ]
+}
