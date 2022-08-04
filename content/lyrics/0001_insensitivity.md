@@ -2,7 +2,7 @@
 title: 鈍感 / 可不
 subtitle: "insensitivity"
 date: 2022-08-04T12:19:30Z
-draft: true
+draft: false
 categories: ["lyrics"]
 twemoji: true
 ---
