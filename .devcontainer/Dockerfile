@@ -37,7 +37,7 @@ RUN \
     # Create non-root user: https://aka.ms/vscode-remote/containers/non-root-user
     groupadd --gid ${usergid} ${username} && \
     useradd -s /bin/bash --uid ${useruid} --gid ${usergid} -m ${username} && \
-    echo ${username} ALL=\(root\) NOPASWD:ALL > /etc/sudoers.d/${username} && \
+    echo ${username} ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/${username} && \
     chmod 0440 /etc/sudoers.d/${username} && \
     #
     # install golang
