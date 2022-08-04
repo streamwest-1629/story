@@ -16,6 +16,9 @@ menu:
 params:
   version: "0.2.11"
   title: story
+  description: インターネットの片隅で書き留めたいと思ったことを書き留めた日記のようなものです．
+  app:
+    title: story
   images:
     - ./images/twitter-card-default.jpg
   header:
