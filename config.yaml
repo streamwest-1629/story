@@ -16,6 +16,8 @@ menu:
 params:
   version: "0.2.11"
   title: story
+  images:
+    - ./images/twitter-card-default.jpg
   header:
     title:
       name: "streamwest1629@story: ~$"
