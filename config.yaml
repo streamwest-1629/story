@@ -1,0 +1,40 @@
+
+baseURL: http://localhost:18080/
+theme: LoveIt
+title: story
+description: インターネットの片隅で書き留めたいと思ったことを書き留めた日記のようなものです．
+languageCode: en
+languageName: English
+author:
+  name: Kasai Kou
+  link: https://twitter.com/streamwest1629
+menu:
+  main:
+    - identifier: lyrics
+      name: lyrics
+      url: ./lyrics
+params:
+  version: "0.2.11"
+  title: story
+  header:
+    title:
+      name: "streamwest1629@story: ~$"
+      typeit: true
+  home:
+    profile:
+      title: story
+      avatarURL: ./images/icon.jpg
+      subtitle: インターネットの片隅で書き留めたいと思ったことを書き留めた日記のようなものです．
+      typeit: true
+  social:
+    GitHub: streamset-1629
+    Twitter: streamset1629
+    Youtubechannel: UC2KCTVmQ7fOybJPROH4hU7Q
+  page:
+    share:
+      Weibo: false
+      HackNews: false
+      Reddit: true
+markup:
+  highlight:
+    noClasses: false
