@@ -13,6 +13,9 @@ menu:
     - identifier: lyrics
       name: lyrics
       url: ./lyrics
+    - identifier: tech_blog
+      name: tech blog
+      url: https://zenn.dev/streamwest1629
 params:
   version: "0.2.11"
   title: story
