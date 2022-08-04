@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - 7-github-pagesを有効化する
 env:
   DOMAIN: story.kasai-san.dev
 jobs:
