@@ -10,9 +10,9 @@ author:
   link: https://twitter.com/streamwest1629
 menu:
   main:
-    - identifier: posts
-      name: Posts
-      url: ./posts
+    - identifier: lyrics
+      name: lyrics
+      url: ./lyrics
 params:
   version: "0.2.11"
   title: story

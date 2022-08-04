@@ -1,6 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: 
+subtitle: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+twemoji: true
 ---
 
