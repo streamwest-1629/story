@@ -6,7 +6,7 @@ draft: false
 categories: ["lyrics"]
 images: ["/lyrics/0001-insensitity/twitter-card.png"]
 ---
-## 歌詞
+## 歌詞 {#lyrics}
 {{< typeit code=text >}}
 溢れる音は　淡い言葉ばかりで
 伝えたい言葉　矛盾ばかりで
@@ -54,7 +54,7 @@ images: ["/lyrics/0001-insensitity/twitter-card.png"]
 {{< /typeit >}}
 
 {{< youtube Dasrgj2pVzI >}}
-## クレジット
+## クレジット {#credits}
 | | |
 | :-: | :-- |
 | 作詞曲 | [かさい (@streamwest1629)][composer-link] |
@@ -65,10 +65,10 @@ images: ["/lyrics/0001-insensitity/twitter-card.png"]
 [illustrator-link]:https://twitter.com/777_mocone
 [movie-creator-link]:https://twitter.com/streamwest1629
 
-## 誰に聴いてほしいか
+## 誰に聴いてほしいか {#for}
 よくわからなかった．誰に伝えたいかもわからないそんな曲．
 
-## オフボーカル
+## オフボーカル {#offvocals}
 {{< music url="./offvocal.wav" name="Offvocal" >}}
 {{< music url="./drum.wav" name="Offvocal (drum only)" >}}
 {{< music url="./no-drum.wav" name="Offvocal (without drum)" >}}

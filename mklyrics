@@ -1,0 +1,22 @@
+#!/bin/sh
+
+cd /workspace
+echo -n "Type the song title and singer name in Japanese: (ex: 鈍感 / 可不): "
+read title_ja
+echo -n "Type the song title in English (ex: insensitivity): "
+read title_en
+
+numbering=`printf %04d $(expr $(ls -l ./content/lyrics | grep ^d | wc -l) + 1)`
+# printf -v numbering %04d 3
+dirname="./content/lyrics/${numbering}-${title_en}"
+filename=$dirname/index.md
+
+echo "Creating files ($dirname)..."
+echo "  Title (ja): $title_ja"
+echo "  Title (en): $title_en"
+
+hugo new $filename &&
+sed -i \
+    -e "s%\"#Title#\"%$title_ja%" \
+    -e "s%\"#EnglishName#\"%$title_en%" \
+$filename
