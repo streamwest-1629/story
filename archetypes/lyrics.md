@@ -11,7 +11,6 @@ twemoji: true
 ## 誰に聴いてほしいか
 
 ## 歌詞
-```
+{{% typeit code=text %}}
 Here lyrics...
-
-```
+{{% /typeit %}}
