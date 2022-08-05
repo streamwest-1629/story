@@ -4,8 +4,8 @@ subtitle: "insensitivity"
 date: 2022-08-04T12:19:30Z
 draft: false
 categories: ["lyrics"]
+images: ["/lyrics/0001-insensitity/twitter-card.png"]
 ---
-
 ## 歌詞
 {{< typeit code=text >}}
 溢れる音は　淡い言葉ばかりで
@@ -53,6 +53,7 @@ categories: ["lyrics"]
 今では何も感じないんだ
 {{< /typeit >}}
 
+{{< youtube Dasrgj2pVzI >}}
 ## クレジット
 | | |
 | :-: | :-- |
