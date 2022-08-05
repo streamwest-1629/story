@@ -3,6 +3,15 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/build-hugo.yaml
+      - content/**
+      - data/**
+      - layouts/**
+      - static/**
+      - .gitmodules
+      - themes/**
+      - config.yaml
 env:
   DOMAIN: story.kasai-san.dev
 jobs:
