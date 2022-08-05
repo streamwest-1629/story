@@ -10,7 +10,7 @@ ARG useruid=1000
 ARG usergid=${useruid}
 
 ENV DEBIAN_FRONTEND=nointeractive
-ENV LANG=ja_JP.UTF-8
+ENV LANG=C.UTF-8
 
 # Envrironment variables for Golang
 ENV GOPATH=/usr/local/go
