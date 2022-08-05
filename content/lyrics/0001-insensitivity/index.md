@@ -67,3 +67,8 @@ images: ["/lyrics/0001-insensitity/twitter-card.png"]
 
 ## 誰に聴いてほしいか
 よくわからなかった．誰に伝えたいかもわからないそんな曲．
+
+## オフボーカル
+{{< music url="./offvocal.wav" name="Offvocal" >}}
+{{< music url="./drum.wav" name="Offvocal (drum only)" >}}
+{{< music url="./no-drum.wav" name="Offvocal (without drum)" >}}
