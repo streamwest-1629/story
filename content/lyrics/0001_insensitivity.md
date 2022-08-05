@@ -4,11 +4,7 @@ subtitle: "insensitivity"
 date: 2022-08-04T12:19:30Z
 draft: false
 categories: ["lyrics"]
-twemoji: true
 ---
-
-## 誰に聴いてほしいか
-よくわからなかった．誰に伝えたいかもわからないそんな曲．
 
 ## 歌詞
 {{< typeit code=text >}}
@@ -56,3 +52,17 @@ twemoji: true
 時間が止まって鼓動が止まってからは
 今では何も感じないんだ
 {{< /typeit >}}
+
+## クレジット
+| | |
+| :-: | :-- |
+| 作詞曲 | [かさい (@streamwest1629)][composer-link] |
+| イラスト | [もこね (@777_mocone)][illustrator-link] |
+
+[lyrics-writer-link]:https://twitter.com/streamwest1629
+[composer-link]:https://twitter.com/streamwest1629
+[illustrator-link]:https://twitter.com/777_mocone
+[movie-creator-link]:https://twitter.com/streamwest1629
+
+## 誰に聴いてほしいか
+よくわからなかった．誰に伝えたいかもわからないそんな曲．

@@ -3,8 +3,9 @@ baseURL: http://localhost:18080/
 theme: LoveIt
 title: story
 description: インターネットの片隅で書き留めたいと思ったことを書き留めた日記のようなものです．
-languageCode: en
-languageName: English
+languageCode: ja
+languageName: 日本語
+enableEmoji: true
 author:
   name: Kasai Kou
   link: https://twitter.com/streamwest1629
