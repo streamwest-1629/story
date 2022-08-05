@@ -4,12 +4,14 @@ subtitle: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 categories: ["lyrics"]
+# images: ["{{ path.Join .File.Dir "twitter-card.png" | relURL }}"]
 ---
 ## 歌詞
 {{% typeit code=text %}}
 Here lyrics...
 {{% /typeit %}}
 
+{{< youtube  >}}
 ## クレジット
 | | |
 | :-: | :-- |
@@ -23,3 +25,8 @@ Here lyrics...
 
 ## 誰に聴いてほしいか
 よくわからなかった．誰に伝えたいかもわからないそんな曲．
+<!-- 
+{{< music url="./offvocal.wav" name="Offvocal" >}}
+{{< music url="./drum.wav" name="Offvocal (drum only)" >}}
+{{< music url="./no-drum.wav" name="Offvocal (without drum)" >}} 
+-->
