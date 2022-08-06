@@ -2,7 +2,7 @@
 title: 布団 / 可不
 subtitle: futon
 date: 2022-08-05T23:57:20Z
-draft: false
+draft: true
 categories: ["lyrics"]
 # images: ["/lyrics/0002-futon/twitter-card.png"]
 ---
