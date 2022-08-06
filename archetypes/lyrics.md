@@ -2,7 +2,7 @@
 title: "#Title#"
 subtitle: "#EnglishName#"
 date: {{ .Date }}
-draft: false
+draft: true
 categories: ["lyrics"]
 # images: ["{{ path.Join .File.Dir "twitter-card.png" | relURL }}"]
 ---
