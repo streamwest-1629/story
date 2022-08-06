@@ -10,7 +10,7 @@
 {{- with dict "Path" $cover "Resources" .Page.Resources | partial "function/resource.html" -}}
 {{- $cover = .RelPermalink -}}
 {{- end -}}
-<meting-js url="{{ $url }}" name="<a href={{ $url }}>{{ .Get `name` }}</a>" artist="{{ .Get `artist` }}"
+<meting-js url="{{ $url }}" name="<a href={{ $url }} download>{{ .Get `name` }}</a>" artist="{{ .Get `artist` }}"
     cover="{{ $cover }}" theme="{{ $theme }}" {{- with .Get "fixed" }} fixed="{{ . }}" {{ end -}} {{- with .Get "mini"
     }} mini="{{ . }}" {{ end -}} {{- with .Get "autoplay" }} autoplay="{{ . }}" {{ end -}} {{- with .Get "volume" }}
     volume="{{ . }}" {{ end -}} {{- with .Get "mutex" }} mutex="{{ . }}" {{ end -}}></meting-js>
