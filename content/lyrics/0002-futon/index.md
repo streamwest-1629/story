@@ -1,10 +1,10 @@
 ---
-title: "#Title#"
-subtitle: "#EnglishName#"
-date: {{ .Date }}
+title: 布団 / 可不
+subtitle: futon
+date: 2022-08-05T23:57:20Z
 draft: true
 categories: ["lyrics"]
-# images: ["{{ path.Join .File.Dir "twitter-card.png" | relURL }}"]
+# images: ["/lyrics/0002-futon/twitter-card.png"]
 ---
 ## 歌詞 {#lyrics}
 {{% typeit code=text %}}
@@ -24,7 +24,7 @@ Here lyrics...
 [movie-creator-link]:https://twitter.com/streamwest1629
 
 ## 誰に聴いてほしいか {#for}
-よくわからなかった．誰に伝えたいかもわからないそんな曲．
+遠足が楽しみで仕方なくて夜も眠れないような人．
 <!-- 
 ## オフボーカル {#offvocals}
 {{< music url="./offvocal.wav" name="Offvocal" >}}
