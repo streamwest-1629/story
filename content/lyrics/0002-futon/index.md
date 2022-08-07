@@ -24,7 +24,7 @@ Here lyrics...
 [movie-creator-link]:https://twitter.com/streamwest1629
 
 ## 誰に聴いてほしいか {#for}
-遠足で夜も眠れないような人をしっかり眠させられるような歌．
+遠足が楽しみで仕方なくて夜も眠れないような人．
 <!-- 
 ## オフボーカル {#offvocals}
 {{< music url="./offvocal.wav" name="Offvocal" >}}
