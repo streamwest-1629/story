@@ -4,7 +4,7 @@ subtitle: "insensitivity"
 date: 2022-08-04T12:19:30Z
 draft: false
 categories: ["lyrics"]
-images: ["/lyrics/0001-insensitity/twitter-card.png"]
+images: ["/lyrics/0001-insensitivity/twitter-card.png"]
 ---
 ## 歌詞 {#lyrics}
 {{< typeit code=text >}}
